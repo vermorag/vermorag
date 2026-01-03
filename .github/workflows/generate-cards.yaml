@@ -11,20 +11,36 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Generate stats card
+      - name: Generate light stats card
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: stats
-          options: username=${{ github.repository_owner }}&show_icons=true&include_all_commits=true&hide_rank=true
-          path: profile/stats.svg
+          options: username=${{ github.repository_owner }}&theme=vue&show_icons=true&include_all_commits=true&hide_rank=true
+          path: profile/stats-light.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Generate wakatime card
+      - name: Generate dark stats card
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: stats
+          options: username=${{ github.repository_owner }}&theme=transparent&show_icons=true&include_all_commits=true&hide_rank=true
+          path: profile/stats-dark.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate wakatime dark card
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: wakatime
-          options: username=${{ github.repository_owner }}&show_icons=true&include_all_commits=true&hide_rank=true
-          path: profile/wakatime.svg
+          options: username=${{ github.repository_owner }}&layout=compact&theme=transparent
+          path: profile/wakatime-dark.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate wakatime light card
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: wakatime
+          options: username=${{ github.repository_owner }}&layout=compact&theme=vue
+          path: profile/wakatime-light.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit cards
