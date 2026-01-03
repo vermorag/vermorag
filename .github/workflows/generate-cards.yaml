@@ -31,7 +31,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: wakatime
-          options: username=${{ github.repository_owner }}&layout=compact&theme=transparent
+          options: username=${{ github.repository_owner }}&layout=compact&theme=transparent&hide_title=true
           path: profile/wakatime-dark.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -39,7 +39,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: wakatime
-          options: username=${{ github.repository_owner }}&layout=compact&theme=vue
+          options: username=${{ github.repository_owner }}&layout=compact&theme=vue&hide_title=true
           path: profile/wakatime-light.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
