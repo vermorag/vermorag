@@ -1,0 +1,177 @@
+[
+  {
+    "id": "a-commit",
+    "tier": 1,
+    "desc": "One of my commit sha starts with \"a\".",
+    "body": "- <a href=\"https://github.com/vermorag/vermorag/commit/a7f3b17874bdc72dee7f3eb6de561547891390e9\"><strong>a</strong>7f3b17874bdc72dee7f3eb6de561547891390e9</a>",
+    "image": "https://my-badges.github.io/my-badges/a-commit.png"
+  },
+  {
+    "id": "ab-commit",
+    "tier": 2,
+    "desc": "One of my commit sha starts with \"ab\".",
+    "body": "- <a href=\"https://github.com/cattr-app/server-application/commit/ab4f8acc8984f43a91036297da9160ebd0608a96\"><strong>ab</strong>4f8acc8984f43a91036297da9160ebd0608a96</a>",
+    "image": "https://my-badges.github.io/my-badges/ab-commit.png"
+  },
+  {
+    "id": "alien-day",
+    "tier": 0,
+    "desc": "I committed on the day when the crew of the USCSS Nostromo made their fateful landing and discovered the Xenomorph on LV-426!",
+    "body": "Commits:\n\n- <a href=\"https://github.com/cattr-app/server-application/commit/e7aaad85bac6e6cd20f2d0a3333d225431f84f11\">e7aaad8</a>\n- <a href=\"https://github.com/cattr-app/server-application/commit/e2b2652af241ed4bc20523ee86451d92d47e65d9\">e2b2652</a>\n- <a href=\"https://github.com/cattr-app/server-application/commit/bff9de18669a8ebd51ecba4e68e22c18538f27cc\">bff9de1</a>",
+    "image": "https://my-badges.github.io/my-badges/alien-day.png"
+  },
+  {
+    "id": "chore-commit",
+    "tier": 0,
+    "desc": "I did a little housekeeping! 🧹",
+    "body": "Commits:\n\n- <a href=\"https://github.com/cattr-app/server-application/commit/5d184f21e27614168c53c83c229092a467477189\">5d184f2</a>: chore: change paths for CD",
+    "image": "https://my-badges.github.io/my-badges/chore-commit.png"
+  },
+  {
+    "id": "covid-19",
+    "tier": 0,
+    "desc": "I rolled before Covid-19: Survivor of the Great TP Shortage",
+    "body": "",
+    "image": "https://my-badges.github.io/my-badges/covid-19.png"
+  },
+  {
+    "id": "favorite-word",
+    "tier": 0,
+    "desc": "My favorite word is \"merge\".",
+    "body": "My favorite commit message words are:\n\n1. merge (used 220 times)\n2. bump (used 146 times)\n3. request (used 141 times)\n4. signed-off-by: (used 80 times)\n5. pull (used 80 times)",
+    "image": "https://my-badges.github.io/my-badges/favorite-word.png"
+  },
+  {
+    "id": "fix-2",
+    "tier": 1,
+    "desc": "I did 2 sequential fixes.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/cattr-app/server-application/commit/35575ba91372c7badb0250b3b8903d55ce78b315\">35575ba</a>: fix: sentry context & throwable\n\nSigned-off-by: AlexV <alex@amazingcat.net>\n- <a href=\"https://github.com/cattr-app/server-application/commit/5a71252775e54fcf7281ca337707a49660b7137f\">5a71252</a>: fix: mail test command\n\nSigned-off-by: AlexV <alex@amazingcat.net>",
+    "image": "https://my-badges.github.io/my-badges/fix-2.png"
+  },
+  {
+    "id": "fix-3",
+    "tier": 2,
+    "desc": "I did 3 sequential fixes.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/cattr-app/server-application/commit/1adf6990430e429014275881c9a245a44e369e5b\">1adf699</a>: fix: mapping of roles for projects\n- <a href=\"https://github.com/cattr-app/server-application/commit/0bb0f0a787d96b942974e0cdd0e560b499a7f608\">0bb0f0a</a>: fix: has role cache exception\n- <a href=\"https://github.com/cattr-app/server-application/commit/0a7f4a678868c2bb9f342ea6b21b6ae2255490e5\">0a7f4a6</a>: fix: laravel runner group",
+    "image": "https://my-badges.github.io/my-badges/fix-3.png"
+  },
+  {
+    "id": "fix-4",
+    "tier": 3,
+    "desc": "I did 4 sequential fixes.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/cattr-app/server-application/commit/79947978432afb0c521f9d35baf497e7fcc053d1\">7994797</a>: fix: separate build stages for kaniko\n- <a href=\"https://github.com/cattr-app/server-application/commit/8ee09489e2a2ae4242bc45a4d4ad4a1b28723221\">8ee0948</a>: fix: prepare-filesystem s6 component for kube\n- <a href=\"https://github.com/cattr-app/server-application/commit/91e81bafa6992122c34d2c7ecab597827cf41296\">91e81ba</a>: fix: Dockerfile default modules\n- <a href=\"https://github.com/cattr-app/server-application/commit/59b577c1342d620f0838b33e445186a33639e757\">59b577c</a>: fix: setuidgid",
+    "image": "https://my-badges.github.io/my-badges/fix-4.png"
+  },
+  {
+    "id": "fix-5",
+    "tier": 4,
+    "desc": "I did 5 sequential fixes.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/cattr-app/server-application/commit/e2b2652af241ed4bc20523ee86451d92d47e65d9\">e2b2652</a>: fix: remove extra comments\n- <a href=\"https://github.com/cattr-app/server-application/commit/bff9de18669a8ebd51ecba4e68e22c18538f27cc\">bff9de1</a>: fix: roles id validation\n- <a href=\"https://github.com/cattr-app/server-application/commit/0158594fdff1a040e2d96b891540deee9c0d170a\">0158594</a>: fix: admin role id in migration\n- <a href=\"https://github.com/cattr-app/server-application/commit/c8f73d71eb61e236bbc5aea491b953cb4aadf3ed\">c8f73d7</a>: fix: roles selector\n- <a href=\"https://github.com/cattr-app/server-application/commit/0f529c4a97eae3be11772dd09ac866ae777c0c1c\">0f529c4</a>: fix: roles admin translation",
+    "image": "https://my-badges.github.io/my-badges/fix-5.png"
+  },
+  {
+    "id": "fix-6",
+    "tier": 5,
+    "desc": "I did 6 sequential fixes.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/cattr-app/server-application/commit/c3a250bf65faf975e6f392f8b5cbbe79be76edc0\">c3a250b</a>: fix: remove global auth for reports\n- <a href=\"https://github.com/cattr-app/server-application/commit/9ce027a197a61cae4c3d280c0567680d83b5f961\">9ce027a</a>: fix: file endings\n- <a href=\"https://github.com/cattr-app/server-application/commit/55931f8fc848bc44d9e7a8f00149b64fe24512c7\">55931f8</a>: fix: time interval policy\n- <a href=\"https://github.com/cattr-app/server-application/commit/452b7b459268ac4dd1ac3eeaba6e57917b45b69f\">452b7b4</a>: fix: replace usage of builder class with contract on scopes\n- <a href=\"https://github.com/cattr-app/server-application/commit/31ce4152ebe805428a61086f2fe18860739bf9f9\">31ce415</a>: fix: remove builder hint in scopes\n- <a href=\"https://github.com/cattr-app/server-application/commit/c79050a621394a084d0802fff4944da80778eab0\">c79050a</a>: fix: scopes and role trait namespace uses",
+    "image": "https://my-badges.github.io/my-badges/fix-6.png"
+  },
+  {
+    "id": "fix-6+",
+    "tier": 6,
+    "desc": "I did 7 sequential fixes.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/cattr-app/server-application/commit/94edcba232a59d0b55ecdea42561e06636d7784d\">94edcba</a>: fix: interval controller extra $data\n- <a href=\"https://github.com/cattr-app/server-application/commit/8f6e2cbf62c615608a1826644ea9dbe449e0a63f\">8f6e2cb</a>: fix: possibility to rewrite installation data\n- <a href=\"https://github.com/cattr-app/server-application/commit/dcdd18eb23b3ab8c4f0d321987c5709b26d96c39\">dcdd18e</a>: fix: screenshot pushing\n- <a href=\"https://github.com/cattr-app/server-application/commit/c199ae7facc98d39fbcaf29122305164075db041\">c199ae7</a>: fix: sentry_dsn variable in dockerfile\n- <a href=\"https://github.com/cattr-app/server-application/commit/bf498ffa138181dce91f854e06d973da4a703d84\">bf498ff</a>: fix: update ci build args\n- <a href=\"https://github.com/cattr-app/server-application/commit/9b093fe14c588741bd01e7413eb3a080dcd33720\">9b093fe</a>: fix: sentry ci\n- <a href=\"https://github.com/cattr-app/server-application/commit/16a4fe19e4d07e883f85b81d7022cc44da5fab07\">16a4fe1</a>: fix: docker tag name",
+    "image": "https://my-badges.github.io/my-badges/fix-6+.png"
+  },
+  {
+    "id": "friday-13",
+    "tier": 0,
+    "desc": "I committed on Friday the 13th, One… By One…",
+    "body": "Commits:\n\n- <a href=\"https://github.com/cattr-app/server-application/commit/e3277a67ccb77e7ade50e3d418b9ddb3568e6834\">e3277a6</a>",
+    "image": "https://my-badges.github.io/my-badges/friday-13.png"
+  },
+  {
+    "id": "github-anniversary-5",
+    "tier": 0,
+    "desc": "I joined GitHub 5 years ago.",
+    "body": "",
+    "image": "https://my-badges.github.io/my-badges/github-anniversary-5.png"
+  },
+  {
+    "id": "mass-delete-commit",
+    "tier": 1,
+    "desc": "When I delete code, I delete a lot.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/cattr-app/server-application/commit/2455ed5b4ed8df0a60292ddaecf3551cc123d308\">2455ed5</a>",
+    "image": "https://my-badges.github.io/my-badges/mass-delete-commit.png"
+  },
+  {
+    "id": "mass-delete-commit-10k",
+    "tier": 2,
+    "desc": "When I delete code, I delete a lot.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/cattr-app/server-application/commit/ec5471bcb353df00ad23b15e0c845bbba4a3a4bc\">ec5471b</a>",
+    "image": "https://my-badges.github.io/my-badges/mass-delete-commit-10k.png"
+  },
+  {
+    "id": "may-the-4th",
+    "tier": 0,
+    "desc": "May the 4th be with you!",
+    "body": "Commits:\n\n- <a href=\"https://github.com/vermorag/vermorag/commit/6765bef174d5a9d53f85eed055c8f6bdc2dca7aa\">6765bef</a>\n- <a href=\"https://github.com/vermorag/vermorag/commit/2b9cc175c1c8e697eb2f9e0258770e6a049cc7d9\">2b9cc17</a>\n- <a href=\"https://github.com/vermorag/vermorag/commit/04c5c8341d7a960b8c12d9ae1dbd29767d2334ce\">04c5c83</a>\n- <a href=\"https://github.com/cattr-app/server-application/commit/f700ae1b3cf4277dcf4f00e387de40c327a5a84e\">f700ae1</a>\n- <a href=\"https://github.com/cattr-app/server-application/commit/a41678f0c728e5395401f8cebf401e40eea6f49c\">a41678f</a>\n- <a href=\"https://github.com/cattr-app/server-application/commit/640ef43c40178b6d3e1121f1a983c4c2067ea87a\">640ef43</a>",
+    "image": "https://my-badges.github.io/my-badges/may-the-4th.png"
+  },
+  {
+    "id": "pi-day",
+    "tier": 0,
+    "desc": "Happy March 14th! I committed on a Pi Day!",
+    "body": "Commits:\n\n- <a href=\"https://github.com/cattr-app/server-application/commit/39504b715f3688d30339cedbd71f1286c9f20b92\">39504b7</a>",
+    "image": "https://my-badges.github.io/my-badges/pi-day.png"
+  },
+  {
+    "id": "public-keys-1",
+    "tier": 1,
+    "desc": "I have one public key",
+    "body": "",
+    "image": "https://my-badges.github.io/my-badges/public-keys-1.png"
+  },
+  {
+    "id": "science-fiction-day",
+    "tier": 0,
+    "desc": "I committed on Isaac Asimov's birthday / National Science Fiction Day!",
+    "body": "Commits:\n\n- <a href=\"https://github.com/cattr-app/server-application/commit/e19d9efa1333a51323366a179a6006f345c9534f\">e19d9ef</a>\n- <a href=\"https://github.com/cattr-app/server-application/commit/99e30963b6e7316f2f964fe35c0d642045279976\">99e3096</a>\n- <a href=\"https://github.com/cattr-app/server-application/commit/43c4d471ec42eea01074ee365e51984d2eb0a2ab\">43c4d47</a>\n- <a href=\"https://github.com/cattr-app/server-application/commit/087aa86ff0ca089b0e008bb0a029752e3b53f701\">087aa86</a>\n- <a href=\"https://github.com/cattr-app/server-application/commit/95482b68a99fbeb7dd55cb11b39ee8394801ee9e\">95482b6</a>\n- <a href=\"https://github.com/cattr-app/server-application/commit/ffd37ddf38562cf0b5458dfe418acfccdbb65b8c\">ffd37dd</a>",
+    "image": "https://my-badges.github.io/my-badges/science-fiction-day.png"
+  },
+  {
+    "id": "st-patricks-day",
+    "tier": 0,
+    "desc": "I committed on St. Patrick's Day!",
+    "body": "Commits:\n\n- <a href=\"https://github.com/cattr-app/server-application/commit/db0ccc15f6e5294bc1ca98528abc905e2f6834a2\">db0ccc1</a>\n- <a href=\"https://github.com/cattr-app/server-application/commit/d2307846607c8f8a1be50b780f0b79a0f49f5dff\">d230784</a>",
+    "image": "https://my-badges.github.io/my-badges/st-patricks-day.png"
+  },
+  {
+    "id": "sleepy-coder",
+    "tier": 0,
+    "desc": "I am a sleepy coder.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/cattr-app/server-application/commit/a4f45277b91a68ad61cfd0f42cacc7a091baa899\">a4f4527</a>\n- <a href=\"https://github.com/cattr-app/server-application/commit/e3ecde61ee9cd202da6f8206b02844ced7cfbeaa\">e3ecde6</a>\n- <a href=\"https://github.com/cattr-app/server-application/commit/0a26b5a2438a21d9a97c2ad9f2611c48bb5b409c\">0a26b5a</a>\n- <a href=\"https://github.com/cattr-app/server-application/commit/abfba3502378b80c4c15151666304cc893df661c\">abfba35</a>\n- <a href=\"https://github.com/cattr-app/server-application/commit/78a1bb35e61587796872bb0646688965a9f56437\">78a1bb3</a>\n- <a href=\"https://github.com/cattr-app/server-application/commit/5c292a57096bcbe55e3963b17fab292ebb34ebf3\">5c292a5</a>",
+    "image": "https://my-badges.github.io/my-badges/sleepy-coder.png"
+  },
+  {
+    "id": "morning-commits",
+    "tier": 0,
+    "desc": "I commit in the morning.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/cattr-app/server-application/commit/1399e1b0a23f82e2d21c431ea58572b9ae9ae092\">1399e1b</a>\n- <a href=\"https://github.com/cattr-app/server-application/commit/dea06e7c64f4d082b79405e34c66f5e080592c44\">dea06e7</a>\n- <a href=\"https://github.com/cattr-app/server-application/commit/59f299e400ea031b6c288a2e226d633f7d5c9a99\">59f299e</a>\n- <a href=\"https://github.com/cattr-app/server-application/commit/158e59f581dc7c53d7b6a84a01112cd6f8befa87\">158e59f</a>\n- <a href=\"https://github.com/cattr-app/server-application/commit/71dc2f172bb10c36f1fe49d39b5218a948574855\">71dc2f1</a>\n- <a href=\"https://github.com/cattr-app/server-application/commit/478b8fbf6a90e1ac8ea251176ad61cc32c2de95b\">478b8fb</a>",
+    "image": "https://my-badges.github.io/my-badges/morning-commits.png"
+  },
+  {
+    "id": "evening-commits",
+    "tier": 0,
+    "desc": "I commit in the evening.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/cattr-app/server-application/commit/819af08e869834627771e3156ab2a863fa48b38a\">819af08</a>\n- <a href=\"https://github.com/cattr-app/server-application/commit/a69ddccc863f2ff7bf1c54b9c4459003c0a4d551\">a69ddcc</a>\n- <a href=\"https://github.com/cattr-app/server-application/commit/5267c4757d79452b194dabe900689d872d75f4d2\">5267c47</a>\n- <a href=\"https://github.com/cattr-app/server-application/commit/6e4e6fd3ee390be0c8b99f149dcf13a5baca232e\">6e4e6fd</a>\n- <a href=\"https://github.com/cattr-app/server-application/commit/ee026d861d3840b3a687931ca2962029a41b8700\">ee026d8</a>\n- <a href=\"https://github.com/cattr-app/server-application/commit/1adf6990430e429014275881c9a245a44e369e5b\">1adf699</a>",
+    "image": "https://my-badges.github.io/my-badges/evening-commits.png"
+  },
+  {
+    "id": "midnight-commits",
+    "tier": 0,
+    "desc": "I commit at midnight.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/cattr-app/server-application/commit/c3a250bf65faf975e6f392f8b5cbbe79be76edc0\">c3a250b</a>",
+    "image": "https://my-badges.github.io/my-badges/midnight-commits.png"
+  }
+]
