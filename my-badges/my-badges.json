@@ -126,13 +126,6 @@
     "image": "https://my-badges.github.io/my-badges/pi-day.png"
   },
   {
-    "id": "public-keys-1",
-    "tier": 1,
-    "desc": "I have one public key",
-    "body": "",
-    "image": "https://my-badges.github.io/my-badges/public-keys-1.png"
-  },
-  {
     "id": "science-fiction-day",
     "tier": 0,
     "desc": "I committed on Isaac Asimov's birthday / National Science Fiction Day!",
@@ -173,5 +166,12 @@
     "desc": "I commit at midnight.",
     "body": "Commits:\n\n- <a href=\"https://github.com/cattr-app/server-application/commit/c3a250bf65faf975e6f392f8b5cbbe79be76edc0\">c3a250b</a>",
     "image": "https://my-badges.github.io/my-badges/midnight-commits.png"
+  },
+  {
+    "id": "public-keys-2",
+    "tier": 2,
+    "desc": "I have two public keys",
+    "body": "",
+    "image": "https://my-badges.github.io/my-badges/public-keys-2.png"
   }
 ]
