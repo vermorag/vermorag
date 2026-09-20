@@ -19,5 +19,19 @@
     "desc": "I have two public keys",
     "body": "",
     "image": "https://my-badges.github.io/my-badges/public-keys-2.png"
+  },
+  {
+    "id": "old-issue-3",
+    "tier": 3,
+    "desc": "I closed an issue that was open for 3 years",
+    "body": "Issues:\n\n- <a href=\"https://github.com/cattr-app/server-application/issues/18\">#18</a>: Fix code scanning alert - Inefficient regular expression",
+    "image": "https://my-badges.github.io/my-badges/old-issue-3.png"
+  },
+  {
+    "id": "rebel-coder",
+    "tier": 0,
+    "desc": "I am a rebel coder.",
+    "body": "I do not use words like \"thanks\" and \"please\" in my issues.\nStraight to the point!",
+    "image": "https://my-badges.github.io/my-badges/rebel-coder.png"
   }
 ]
